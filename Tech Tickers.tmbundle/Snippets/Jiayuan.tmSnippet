@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(NASDAQ:DATE) </string>
+	<key>name</key>
+	<string>Jiayuan</string>
+	<key>tabTrigger</key>
+	<string>sx</string>
+	<key>uuid</key>
+	<string>0E0D89CD-1ADA-41D1-A270-4B49E5368DD0</string>
+</dict>
+</plist>

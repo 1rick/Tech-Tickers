@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(NASDAQ: PWRD) </string>
+	<key>name</key>
+	<string>Perfect World</string>
+	<key>tabTrigger</key>
+	<string>sx</string>
+	<key>uuid</key>
+	<string>7B192E8B-0A17-4E86-B1F8-B22146273E49</string>
+</dict>
+</plist>

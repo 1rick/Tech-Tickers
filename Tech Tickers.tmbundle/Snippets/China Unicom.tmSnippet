@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(HKG:762) </string>
+	<key>name</key>
+	<string>China Unicom</string>
+	<key>tabTrigger</key>
+	<string>sx</string>
+	<key>uuid</key>
+	<string>330AA8FD-83A3-4EF3-9904-210EA73845E0</string>
+</dict>
+</plist>

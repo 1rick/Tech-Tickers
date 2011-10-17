@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(TSE:4751) </string>
+	<key>name</key>
+	<string>CyberAgent</string>
+	<key>tabTrigger</key>
+	<string>sx</string>
+	<key>uuid</key>
+	<string>FA717CD2-DB1C-4B5E-94B0-45222ACF2B44</string>
+</dict>
+</plist>
