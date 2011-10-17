@@ -35,10 +35,10 @@ You can call up the tickers using one tab trigger: sx+TAB
 ###Japanese companies
 * KDDI	TYO:9433
 * Docomo	NYSE: DCM
-* Softbank	TSE:9984
-* GREE 	TSE:3632
-* DeNA	TSE:2432
-* CyberAgent	TSE:4751
+* Softbank	TYO:9984
+* GREE 	TYO:3632
+* DeNA	TYO:2432
+* CyberAgent	TYO:4751
 
 ###Other
 * LinkedIn	NYSE:LNKD
