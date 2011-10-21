@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(HKG:1688) </string>
+	<string>(JSD:4755) </string>
 	<key>name</key>
-	<string>Alibaba</string>
+	<string>Rakuten</string>
 	<key>tabTrigger</key>
-	<string>xc</string>
+	<string>xj</string>
 	<key>uuid</key>
-	<string>60A9F717-320A-4E10-958F-FB33EBDF350C</string>
+	<string>B87A9651-5613-44F4-92DF-8F9FA3971A55</string>
 </dict>
 </plist>

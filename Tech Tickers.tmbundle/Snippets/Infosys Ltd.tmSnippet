@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(HKG:1688) </string>
+	<string>(BOM:500209) </string>
 	<key>name</key>
-	<string>Alibaba</string>
+	<string>Infosys Ltd</string>
 	<key>tabTrigger</key>
-	<string>xc</string>
+	<string>xi</string>
 	<key>uuid</key>
-	<string>60A9F717-320A-4E10-958F-FB33EBDF350C</string>
+	<string>B46E2BE2-C911-4C27-AC47-779D46A84315</string>
 </dict>
 </plist>

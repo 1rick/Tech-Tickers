@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NYSE: DCM) </string>
+	<string>(NYSE:DCM) </string>
 	<key>name</key>
 	<string>Docomo</string>
 	<key>tabTrigger</key>
-	<string>sx</string>
+	<string>xj</string>
 	<key>uuid</key>
 	<string>D795DC61-B15C-4877-8BCF-B8CD347A850C</string>
 </dict>

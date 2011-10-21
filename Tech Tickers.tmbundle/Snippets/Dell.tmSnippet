@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Dell</string>
 	<key>tabTrigger</key>
-	<string>sx</string>
+	<string>x</string>
 	<key>uuid</key>
 	<string>5D15F497-AA84-4ABA-A383-24C5FC6416C1</string>
 </dict>

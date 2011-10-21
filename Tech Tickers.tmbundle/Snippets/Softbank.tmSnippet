@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(TSE:9984) </string>
+	<string>(TYO:9984) </string>
 	<key>name</key>
 	<string>Softbank</string>
 	<key>tabTrigger</key>
-	<string>sx</string>
+	<string>xj</string>
 	<key>uuid</key>
 	<string>6A7A2C7A-8BAD-4CF4-B37B-0FD98F8FE439</string>
 </dict>

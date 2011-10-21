@@ -1,8 +1,13 @@
-###Tech Tickers
+#Tech Tickers
 
 A simple bundle of snippets/shortcuts for common stock tickers for tech industry companies. Focus here is on Asia, with lots of Chinese companies. I may eventually break this up into separate bundles for each exchange. But for now, here is everything at once.
 
-You can call up the tickers using one tab trigger: sx+TAB
+###You can call up the tickers using tab triggers:
+
+* China >>  type: xc+TAB
+* Japan >> type: xj+TAB
+* India >> type: xi+TAB
+* All others (including Western companies) >> type x+TAB 
 
 ##Here is a list of companies included so far:
 
