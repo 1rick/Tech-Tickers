@@ -37,6 +37,14 @@ A simple bundle of snippets/shortcuts for common stock tickers for tech industry
 * China Unicom	HKG:762
 * Haier 	HKG:1169
 
+###Indian companies
+* Indian Company	IN tickers
+* Bharti Airtel	BOM:532454
+* Reliance Communications Ltd.	BOM:532712
+* Idea Cellular	BOM:532822
+* MakeMyTrip	NASDAQ:MMYT
+* Infosys Ltd	BOM:500209
+
 ###Japanese companies
 * KDDI	TYO:9433
 * Docomo	NYSE: DCM
@@ -44,6 +52,16 @@ A simple bundle of snippets/shortcuts for common stock tickers for tech industry
 * GREE 	TYO:3632
 * DeNA	TYO:2432
 * CyberAgent	TYO:4751
+* Sony	NYSE:SNE
+* Toshiba	TYO:6502
+* Kyocera	NYSE:KYO
+* Nintendo	TYO:7974
+* Capcom	TYO:9697
+* Konami	NYSE:KNM
+* Rakuten	JSD:4755
+* Panasonic	TYO:6752
+* Yahoo Japan	TYO:4689
+* Dentsu	TYO: 4324
 
 ###Other
 * LinkedIn	NYSE:LNKD
@@ -55,4 +73,6 @@ A simple bundle of snippets/shortcuts for common stock tickers for tech industry
 * Dell	NASDAQ:DELL
 * SK Telecom	SEO:017670; NYSE:SKM
 * Google	NASQAQ:GOOG
+* Amazon	NASDAQ:AMZN
+* RIM	NASDAQ:RIMM
 
