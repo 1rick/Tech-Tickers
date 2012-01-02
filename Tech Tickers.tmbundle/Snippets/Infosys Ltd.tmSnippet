@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(BOM:500209) </string>
+	<string>BOM:500209</string>
 	<key>name</key>
 	<string>Infosys Ltd</string>
 	<key>tabTrigger</key>

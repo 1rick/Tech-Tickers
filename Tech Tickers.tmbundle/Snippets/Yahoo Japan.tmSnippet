@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(TYO:4689) </string>
+	<string>TYO:4689</string>
 	<key>name</key>
 	<string>Yahoo Japan</string>
 	<key>tabTrigger</key>

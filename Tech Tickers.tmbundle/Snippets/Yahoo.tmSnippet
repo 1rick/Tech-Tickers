@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASQAQ:YHOO) </string>
+	<string>NASQAQ:YHOO</string>
 	<key>name</key>
 	<string>Yahoo</string>
 	<key>tabTrigger</key>

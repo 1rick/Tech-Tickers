@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(HKG:762) </string>
+	<string>HKG:762</string>
 	<key>name</key>
 	<string>China Unicom</string>
 	<key>tabTrigger</key>

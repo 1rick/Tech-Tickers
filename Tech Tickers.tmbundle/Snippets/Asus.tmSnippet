@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>LSE:ASKD; TPE:2357</string>
+	<key>name</key>
+	<string>Asus</string>
+	<key>tabTrigger</key>
+	<string>xt</string>
+	<key>uuid</key>
+	<string>C8A32B6E-0B58-4D35-98B9-D70B653D9632</string>
+</dict>
+</plist>

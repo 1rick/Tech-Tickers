@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>NYSE:SAP; FRA:SAP; ETR:SAP</string>
+	<key>name</key>
+	<string>SAP</string>
+	<key>tabTrigger</key>
+	<string>x</string>
+	<key>uuid</key>
+	<string>C65154D6-CD1A-4954-964F-B0AB48E285D0</string>
+</dict>
+</plist>

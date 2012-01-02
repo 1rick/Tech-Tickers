@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASDAQ:LFT) </string>
+	<string>NASDAQ:LFT</string>
 	<key>name</key>
 	<string>Longtop</string>
 	<key>tabTrigger</key>
-	<string>xc</string>
+	<string>x</string>
 	<key>uuid</key>
 	<string>445EEAD7-A9F3-4B6D-A327-532387881BF6</string>
 </dict>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NYSE:CHL) </string>
+	<string>NYSE:CHL</string>
 	<key>name</key>
 	<string>China Mobile</string>
 	<key>tabTrigger</key>

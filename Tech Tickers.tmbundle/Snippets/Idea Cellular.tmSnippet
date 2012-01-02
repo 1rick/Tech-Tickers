@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(BOM:532822) </string>
+	<string>BOM:532822</string>
 	<key>name</key>
 	<string>Idea Cellular</string>
 	<key>tabTrigger</key>

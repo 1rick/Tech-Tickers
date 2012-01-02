@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASQAQ:GOOG) </string>
+	<string>NASQAQ:GOOG</string>
 	<key>name</key>
 	<string>Google</string>
 	<key>tabTrigger</key>

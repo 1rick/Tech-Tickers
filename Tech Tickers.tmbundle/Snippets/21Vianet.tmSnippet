@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASDAQ:VNET) </string>
+	<string>NASDAQ:VNET</string>
 	<key>name</key>
 	<string>21Vianet</string>
 	<key>tabTrigger</key>

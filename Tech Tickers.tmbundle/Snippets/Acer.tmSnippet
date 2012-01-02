@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(TPE:2353) </string>
+	<string>TPE:2353</string>
 	<key>name</key>
 	<string>Acer</string>
 	<key>tabTrigger</key>
-	<string>x</string>
+	<string>xt</string>
 	<key>uuid</key>
 	<string>00BA2321-8F5B-4C50-A717-B405DE135015</string>
 </dict>

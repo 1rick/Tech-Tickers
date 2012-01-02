@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASDAQ:AAPL) </string>
+	<string>NASDAQ:AAPL</string>
 	<key>name</key>
 	<string>Apple</string>
 	<key>tabTrigger</key>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>NYSE:GA</string>
+	<key>name</key>
+	<string>Giant In'active</string>
+	<key>tabTrigger</key>
+	<string>xc</string>
+	<key>uuid</key>
+	<string>AB668116-1763-4DC5-BDB2-6C505EF4F7CF</string>
+</dict>
+</plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NASDAQ:NTES) </string>
+	<string>NASDAQ:NTES</string>
 	<key>name</key>
 	<string>Netease</string>
 	<key>tabTrigger</key>

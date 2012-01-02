@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(BOM:532454) </string>
+	<string>BOM:532454</string>
 	<key>name</key>
 	<string>Bharti Airtel</string>
 	<key>tabTrigger</key>

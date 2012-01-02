@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(TYO:9433) </string>
+	<string>TYO:9433</string>
 	<key>name</key>
 	<string>KDDI</string>
 	<key>tabTrigger</key>

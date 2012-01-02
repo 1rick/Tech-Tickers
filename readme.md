@@ -7,9 +7,11 @@ A simple bundle of snippets/shortcuts for common stock tickers for tech industry
 * China >>  type: xc+TAB
 * Japan >> type: xj+TAB
 * India >> type: xi+TAB
+* Taiwan >> type xt + TAB
+* Korea >> type xk + TAB
 * All others (including Western companies) >> type x+TAB 
 
-##Here is a list of companies included so far:
+##Some of the companies included so far:
 
 ###Chinese Company	CN tickers
 * Baidu	NASDAQ:BIDU

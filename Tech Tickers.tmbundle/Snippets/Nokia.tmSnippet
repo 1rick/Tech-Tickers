@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HEL:NOK1V; NYSE:NOK</string>
+	<key>name</key>
+	<string>Nokia</string>
+	<key>tabTrigger</key>
+	<string>x</string>
+	<key>uuid</key>
+	<string>03FB4B77-2B82-4E22-88AB-5E92834B65E6</string>
+</dict>
+</plist>

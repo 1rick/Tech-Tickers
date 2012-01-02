@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(NYSE:QIHU) </string>
+	<string>NYSE:QIHU</string>
 	<key>name</key>
 	<string>Qihoo 360</string>
 	<key>tabTrigger</key>

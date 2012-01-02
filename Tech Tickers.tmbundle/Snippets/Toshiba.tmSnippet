@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(TYO:6502) </string>
+	<string>TYO:6502</string>
 	<key>name</key>
 	<string>Toshiba</string>
 	<key>tabTrigger</key>

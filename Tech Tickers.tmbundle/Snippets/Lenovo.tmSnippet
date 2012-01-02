@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>(HKG:0992) </string>
+	<string>HKG:0992</string>
 	<key>name</key>
 	<string>Lenovo</string>
 	<key>tabTrigger</key>
