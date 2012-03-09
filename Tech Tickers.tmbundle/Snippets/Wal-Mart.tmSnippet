@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>NYSE:MSI</string>
+	<string>(NYSE:WMT) </string>
 	<key>name</key>
-	<string>Motorola parent</string>
+	<string>Wal-Mart</string>
 	<key>tabTrigger</key>
 	<string>x</string>
 	<key>uuid</key>
-	<string>2D6B6136-20D8-4DC6-AB8D-A922FA209507</string>
+	<string>821781A8-2412-44BF-A685-B5B63CD7F317</string>
 </dict>
 </plist>

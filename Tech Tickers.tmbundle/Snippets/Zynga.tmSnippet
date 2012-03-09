@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(NASDAQ:ZNGA) </string>
+	<key>name</key>
+	<string>Zynga</string>
+	<key>tabTrigger</key>
+	<string>x</string>
+	<key>uuid</key>
+	<string>7A851C9C-522E-44C0-BEAB-3E3C6EEC7DA7</string>
+</dict>
+</plist>
